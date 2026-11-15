@@ -55,7 +55,8 @@ public class BookingService {
         double discount;
         switch (seatCategory) {
             case 1:
-                discount = 0.0; // звичайне місце
+                discount = 0.0; // звичайне місц
+                // е
                 break;
             case 2:
                 discount = 10.0; // студентське
